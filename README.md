@@ -3,6 +3,6 @@
 
 1. This is an extension
 2. Clone and unpack in chrome
-3. Enjoy
+3. Enjoy!
 
 
